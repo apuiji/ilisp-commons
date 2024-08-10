@@ -45,7 +45,6 @@ namespace zlt::ilisp::opcode {
     RETURN,
     RSH,
     SET_CLOSURE,
-    SET_FN_CLOSURE,
     SET_GLOBAL,
     SET_LOCAL,
     SET_MEMB,
